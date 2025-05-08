@@ -24,4 +24,4 @@ yarn-error.log*
 
 # Ignores both root and server/.env
 .env            # Root .env
-server/.env     # Nested .env
+server/.env    # Nested .env
